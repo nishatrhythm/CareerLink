@@ -118,15 +118,17 @@
 
 ### Technology Used
 
-- **Artificial Intelligence & Machine Learning:** For resume parsing, candidate-job matching, and personalized career growth suggestions.
-- **Natural Language Processing (NLP):** To generate optimized job posts and analyze video interviews.
-- **Blockchain Integration:** For secure, tamper-proof certification uploads.
-- **Cloud Infrastructure & Scalable Databases:** To manage high volumes of data and ensure real-time responsiveness.
-- **Video Processing & AI Vision Models:** To facilitate the AI-driven mock interview process.
+To ensure seamless functionality, scalability, and efficiency, our platform integrates modern web development frameworks, AI-driven intelligence, and secure management systems:
 
-<p align="center"><img src="__documents__/BackendAiAndSecuritySystemsFlowchart.png" alt="Backend AI & Security Systems Flowchart" title="Backend AI & Security Systems Flowchart" width="50%"></P>
-
-<p align="center">Figure 2 : Backend AI & Security Systems Flowchart</p>
+- **Frontend Development** – Built using Next.js, providing a dynamic, responsive, and optimized user experience for both job seekers and recruiters.
+- **Backend Development** – Powered by Node.js, enabling robust server-side operations and seamless API handling.
+- **Database Management** – Implemented with PostgreSQL, ensuring structured, scalable, and high-performance data management for large volumes of user data.
+- **API Architecture** – Designed with RESTful APIs, allowing smooth communication between frontend, backend, and AI-driven modules.
+- **Artificial Intelligence & Machine Learning** – Leveraged for resume parsing, intelligent job matching, AI-powered candidate ranking, and personalized career growth insights.
+- **Natural Language Processing (NLP)** – Applied to generate optimized job descriptions, analyze video interviews, and provide smart career recommendations.
+- **Blockchain Integration** – Ensuring secure, tamper-proof certification uploads and verification, adding credibility to candidate credentials.
+- **Cloud Infrastructure & Scalability** – Built with scalable cloud-based storage and processing to handle high volumes of user interactions and data seamlessly.
+- **AI-Powered Video Processing & Computer Vision** – Used in mock interviews, facial expression analysis, and automated sentiment assessment to evaluate candidate confidence and communication skills.
 
 ### Impact & Benefits
 
@@ -135,6 +137,10 @@
 - **Personalized Career Development:** Continuous skill recommendations empower job seekers to remain competitive in the evolving job market.
 - **Improved Engagement:** Dynamic newsfeeds and interactive screening processes create a compelling user experience for both job seekers and companies.
 - **Robust Security & Verification:** Blockchain-based certifications and strict profile completion protocols enhance trust and data integrity.
+
+<p align="center"><img src="__documents__/BackendAiAndSecuritySystemsFlowchart.png" alt="Backend AI & Security Systems Flowchart" title="Backend AI & Security Systems Flowchart" width="50%"></P>
+
+<p align="center">Figure 2 : Backend AI & Security Systems Flowchart</p>
 
 ### Innovative Feature: AI Career Coach
 
