@@ -32,7 +32,7 @@
 ## Table of Contents
 
 1. [CareerLink - AI-Powered Job Recruitment & Networking](#careerlink--connecting-talent-empowering-futures)
-2. [Tutor Connect - One-to-One Topic-Specific Learning](tutor-connect)
+2. [Tutor Connect](#tutor-connect)
 
 
 ---
