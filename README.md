@@ -29,10 +29,10 @@
 
 ---
 
-## Index
+## Table of Contents
 
 1. [CareerLink - AI-Powered Job Recruitment & Networking](#careerlink--connecting-talent-empowering-futures)
-2. [Tutor Connect - One-to-One Topic-Specific Learning](#tutor-connect--a-one-to-one-topic-specific-learning-platform)
+2. [Tutor Connect - One-to-One Topic-Specific Learning](tutor-connect)
 
 
 ---
@@ -195,13 +195,8 @@ Below are some of the past projects our team has worked on, demonstrating expert
     <strong>GitHub Link:</strong> [github.com/teamprefetch/Quillium](https://github.com/teamprefetch/Quillium)</p>
 
 
-
-
-<div align="center">
-  <hr style="border: 1px solid #ddd; width: 100%;">
-</div>
-
-
+---
+---
 
 <p align="center"><strong>ABSTRACT OF THE PROJECT - 2</strong></p>
 
@@ -231,11 +226,11 @@ Below are some of the past projects our team has worked on, demonstrating expert
 
 ### Key Features of the Platform
 
-**1. Student Posting System** – Students can post the specific topics they need help with, along with their available time and the fee they are willing to pay.
-**2. Tutor News Feed** – Teachers will have a personalized feed displaying student requests, enabling them to connect directly with students who match their expertise.
-**3. Integrated Chat System** – A direct messaging system allows students and teachers to communicate efficiently before finalizing a session.
-**4. Built-in Meeting Platform** – Instead of relying on third-party tools like Zoom, our platform includes an in-house video conferencing feature for seamless virtual sessions.
-**5. Teacher Profile & Rating System** – Teachers can create a **detailed profile showcasing their skills,** experience, and ratings from previous students, ensuring trust and credibility—similar to **freelancing platforms.**
+1. **Student Posting System** – Students can post the specific topics they need help with, along with their available time and the fee they are willing to pay.
+2. **Tutor News Feed** – Teachers will have a personalized feed displaying student requests, enabling them to connect directly with students who match their expertise.
+3. **Integrated Chat System** – A direct messaging system allows students and teachers to communicate efficiently before finalizing a session.
+4. **Built-in Meeting Platform** – Instead of relying on third-party tools like Zoom, our platform includes an in-house video conferencing feature for seamless virtual sessions.
+5. **Teacher Profile & Rating System** – Teachers can create a **detailed profile showcasing their skills,** experience, and ratings from previous students, ensuring trust and credibility—similar to **freelancing platforms.**
 
 ### Why This Platform is a Game Changer?
 
