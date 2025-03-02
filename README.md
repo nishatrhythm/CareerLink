@@ -220,7 +220,7 @@ Below are some of the past projects our team has worked on, demonstrating expert
 
 <p align="justify">Furthermore, <strong>rural students face greater challenges</strong> due to <strong>limited internet access and infrastructure.</strong> While urban areas have widespread Wi-Fi connectivity, many <strong>remote villages still lack basic electricity,</strong> let alone a stable internet connection. The <strong>educational disparity</strong> between urban and rural students remains a major concern, with rural learners missing out on the benefits of modern EdTech solutions.</p>
 
-<p align="center"><img src="__documents__/TutorConnect.jpg" alt="Backend AI & Security Systems Flowchart" title="Backend AI & Security Systems Flowchart" width="80%"></P>
+<p align="center"><img src="__documents__/TutorConnect.jpg" alt="Use Case Diagram of Tutor Connect Platform" title="Use Case Diagram of Tutor Connect Platform" width="80%"></P>
 
 <p align="center">Figure 3 : Use Case Diagram of Tutor Connect Platform</p>
 
